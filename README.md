@@ -2,12 +2,11 @@
 
 Recursos sobre la imagen pública (e.g. logos o banners) de la Comunidad Elotl.
 
-El favicon, logo y portadas correspondientes utilizadas en redes
- sociales se encuentran en la carpeta [logo](./logo).
+Los recursos se encuentran en su carpeta correspondiente.
 
 <div align="center">
 
-![Portadas Elotl](./logo/portada_fb.png)
+![Portadas Elotl](./portadas/portada_fb.png)
 
 Portada utilizada en redes sociales
 
@@ -19,7 +18,7 @@ Logo con transparencia
 
 <br />
 
-![Favicon Logo Elotl](./logo/favicon.png)
+![Favicon Logo Elotl](./favicon/favicon.png)
 
 Favicon
 
