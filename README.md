@@ -28,6 +28,7 @@ Los recursos se encuentran alojados aquí en nuestro [GitHub](https://github.com
 Procura revisar las carpetas del GitHub para encontrar el recurso que buscas. Algunos ejemplos son el logo con transparencias, el logo adaptado a redes sociales, o portadas de paginas o perfiles de redes sociales. Si no encuentras un recursos, puedes escribirnos a <a href="mailto:contacto@elotl.mx">contacto@elotl.mx</a>.
 
 <div align="center">
+
 ![Logo transparencias](./logo/logo_elotl_transparente.png)
 
 Logo con transparencias
@@ -54,3 +55,7 @@ Sí, es pequeño.
 </div>
 
 Esperamos estos recursos te sean de utilizad. Para cualquier duda o comentario puedes escribirnos a <a href="mailto:contacto@elotl.mx">contacto@elotl.mx</a> o a nuestras redes sociales en FB (<a href="https://www.facebook.com/comunidadelotl/">https://www.facebook.com/comunidadelotl/</a>) o en Twitter (<a href="https://twitter.com/elotlmx">https://twitter.com/elotlmx</a>).
+
+---
+
+[Fuente en el sitio de elotl.mx](https://elotl.mx/comunidad/brand-resources-logos/)
