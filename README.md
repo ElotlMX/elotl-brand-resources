@@ -7,9 +7,9 @@ El favicon, logo y portadas correspondientes utilizadas en redes
 
 <div align="center">
 
-![Favicon Logo Elotl](./logo/favicon.png)
+![Portadas Elotl](./logo/portada_fb.png)
 
-Favicon
+Portada utilizada en redes sociales
 
 <br />
 
@@ -19,12 +19,11 @@ Logo con transparencia
 
 <br />
 
-![Portadas Elotl](./logo/portada_fb.png)
+![Favicon Logo Elotl](./logo/favicon.png)
 
-Portada utilizada en redes sociales
+Favicon
 
 <br />
-
 
   <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
     <img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
